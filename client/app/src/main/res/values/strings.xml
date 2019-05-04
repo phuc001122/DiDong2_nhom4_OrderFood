@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">OrderFood</string>
-    <string name="gach"><u><b><i>Bạn quên mật khẩu đămg nhập?</i></b></u></string>
-    <string name="title_activity_home">Thực đơn chính</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-</resources>
