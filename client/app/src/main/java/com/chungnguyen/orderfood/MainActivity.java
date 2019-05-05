@@ -1,4 +1,4 @@
-// package com.chungnguyen.orderfood;
+ package com.chungnguyen.orderfood;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -25,6 +25,7 @@ import android.support.v7.app.AppCompatActivity;
 
 
 public class MainActivity extends AppCompatActivity {
+    Button btnSignIn,btnSignUp;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) 
